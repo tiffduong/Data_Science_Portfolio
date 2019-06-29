@@ -1,5 +1,5 @@
 # Assignment 1: MSPA Software Survey Analysis
-## Management Questions
+## Prompt
 Imagine that you are an academic administrator responsible for defining the future direction of the graduate program. <br>
 The MSPA Survey has been designed with these objectives in mind:<br>
 >What are current students' software preferences? <br>
