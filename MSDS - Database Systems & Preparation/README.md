@@ -10,3 +10,13 @@
 > 1. Dataset for Chicago Food Inspections
 > 2. NoSQL database Egnine (ElasticSearch) for indexing and data retrieval
 > 3. HeatMap to plot the children facilties that failed Chicago Food Inspections
+
+## Assignment 2: Data Cleansing & Preparation
+> As a data scientist for BestDeal retailer, you have been tasked with improving their revenue and the effectiveness of the marketing campaign of their electronic products. The given dataset has 10,000 records for the purchases of their customers and is used to predict customers shopping patterns and to provide answers for ad-hoc queries. The dataset DirtyData4BestDeal10000.csv is drawn from its database of customers.
+
+> In this exercise, the goals are to:
+> - Analyze the dataset in the given CSV file
+> - Clean the given dataset
+> - Load the dataset into sqlite database engine
+> - Execute different SQL queries
+> - Data Preparation
