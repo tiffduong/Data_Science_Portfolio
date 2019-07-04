@@ -13,13 +13,7 @@ Guide data science curriculum planning.
 
 ## Assignment 2: Evaluating Classification Models
 ### Management Questions
-Use three binary explanatory variables relating to client banking history: default, housing, and loan. <br>
-Predict the binary response variable: <br>
->Has the client subscribed to a term deposit? <br>
->Use all banking client observations with complete data for these study variables<br>
-
-Employ two classification methods: <br>
->(1) logistic regression<br>
->(2) naïve Bayes classification <br>
-
-Evaluate these methods within a cross-validation design, using the area under the receiver operating characteristic (ROC) curve as an index of classification performance.
+Imagine that you are advising the bank about machine learning methods to guide telephone marketing campaigns. Which of the two modeling methods would you recommend and why? And, given the results of your research, which group of banking clients appears to be the best target for direct marketing efforts (similar to those used with previous telephone campaigns)? <br>
+> Employ two classification models (Logistic Regression and Naive Bayes)
+> Evaluate these models with a cross validation design
+> Use the area under the ROC curve as an index of classification performance
