@@ -14,8 +14,6 @@ Guide data science curriculum planning.
 ## Assignment 2: Evaluating Classification Models
 ### Management Questions
 Imagine that you are advising the bank about machine learning methods to guide telephone marketing campaigns. Which of the two modeling methods would you recommend and why? And, given the results of your research, which group of banking clients appears to be the best target for direct marketing efforts (similar to those used with previous telephone campaigns)? <br>
-
-Goals:<br>
 > Employ two classification models (Logistic Regression and Naive Bayes).<br>
 > Evaluate these models with a cross validation design.<br>
 > Use the area under the ROC curve as an index of classification performance.<br>
