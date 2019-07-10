@@ -21,7 +21,7 @@ I explored data results from a survey given to the MSPA program back in 2016. I 
 I executed and experimented with queries to pull data of varying degrees of precision/relevance from a NoSQL document-oriented database engine ElasticSearch to assess the current state of failed sanitary inspections in buildings categorized as "children's facilities", such as daycares in the city of Chicago.
 
 ## Supervised Learning
-### Evaluating Classification Models
+### Classification Models
 #### <i>Naive Bayes and Logistic Regression</i>
 [Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment%202%20-Evaluating%20Classification%20Models/Assignment%202%20-%20Evaluating%20Classification%20Models.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment%202%20-Evaluating%20Classification%20Models/Assignment%202%20-%20Evaluating%20Classification%20Models.ipynb "Nbviewer")
 
