@@ -17,3 +17,10 @@ Imagine that you are advising the bank about machine learning methods to guide t
 > Employ two classification models (Logistic Regression and Naive Bayes).<br>
 > Evaluate these models with a cross validation design.<br>
 > Use the area under the ROC curve as an index of classification performance.<br>
+
+## Assignment 2: Evaluating Regression Models
+### Management Questions
+Imagine that you are advising a real estate brokerage firm in its attempt to employ machine learning methods. The firm wants to use machine learning to complement conventional methods for assessing the market value of residential real estate. Of the modeling methods examined in your study, which would you recommend to management, and why? <br>
+> Employ at least two regression modeling methods (Linear, Ridge, Lasso, ElasticNet). <br>
+> Evaluate these models with a cross validation design.<br>
+> Use the root mean-squared error (RMSE) as an index of classification performance.<br>
