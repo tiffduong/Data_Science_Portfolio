@@ -22,7 +22,7 @@ I executed and experimented with queries to pull data of varying degrees of prec
 
 ## Supervised Learning
 ### Classification Models Evaluation
-### <i> Logistic Regression and Naive Bayes </i>
+<b> Logistic Regression and Naive Bayes </b>
 [Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment%202%20-Evaluating%20Classification%20Models/Assignment%202%20-%20Evaluating%20Classification%20Models.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment%202%20-Evaluating%20Classification%20Models/Assignment%202%20-%20Evaluating%20Classification%20Models.ipynb "Nbviewer")
 
 I used three features (loan, housing, and default) to predict the response of whether or not the bank's client will subscribe to a term deposit. I employed two classification models (Logistic Regression and Naive Bayes) and evaluated them using k-fold cross validation, as well as using the area under the ROC curve as an index of model performance.
