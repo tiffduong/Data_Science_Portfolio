@@ -35,3 +35,10 @@ I used three features (loan, housing, and default) to predict the response of wh
 
 I used twelve features to predict the median value (in thousands of dollars) for housing in the Boston metropolitan area during the 1970's from a dataset of 500+ observations. I employed four linear models (OLS and three regularized linear models - Ridge, Lasso, ElasticNet) and evaluated them using k-fold cross validation, as well as using RMSE as an index of model performance.
 
+### Tree-Based Models and Feature Selection
+<b> Evaluation of Decision Trees, Random Forests, Gradient Boosting</b> 
+
+[Github]("Github") | [Nbviewer]("Nbviewer")
+
+I used twelve features to predict the median value (in thousands of dollars) for housing in the Boston metropolitan area during the 1970's from a dataset of 500+ observations. I employed three tree-based models (Decision Trees, Random Forests, Gradient Boosting (learning rate =0.1)), as well as using RMSE as an index of model performance. Then, I used a Gradient Boosting model to determine the feature importance of all of the features when predicting the target variable (median value).
+
