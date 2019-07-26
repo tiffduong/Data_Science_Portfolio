@@ -37,7 +37,7 @@ Imagine that you again are advising a real estate brokerage firm in its attempt 
 ## Assignment 5: Principal Components Analysis
 ### Management Questions
 From a management perspective, the predictive accuracy of models must be weighed against the costs of model development and implementation. Suppose you were the manager of a data science team responsible for implementing models for computer vision (classification of images analogous to the MINST problem). Would you recommend using PCA as a preliminary to machine learning classification? Explain your thinking. <br>
-> Employ a random forest classification model using the full set of features and use the F1 score and runtime to execute the program as a benchmark for performance <br>
-> Apply Principal Components Analysis to the full set of data to reduce the dimensionality of the dataset, while still retaining 95% of the variability explained by the explanatory variables<br>
-> Employ a random forest classification model using the PCA transformed data set and compare F1 score and runtime<br>
-> Identify the experiemental issue and rerun the experiment in a way that is consistent with a training-and-test regime<br>
+> Employ a random forest classification model using the full set of features and use the F1 score and runtime to execute the program as a benchmark for performance.<br>
+> Apply Principal Components Analysis to the full set of data to reduce the dimensionality of the dataset, while still retaining 95% of the variability explained by the explanatory variables.<br>
+> Employ a random forest classification model using the PCA transformed data set and compare F1 score and runtime.<br>
+> Identify the experiemental issue and rerun the experiment in a way that is consistent with a training-and-test regime.<br>
