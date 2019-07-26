@@ -38,7 +38,7 @@ I used twelve features to predict the median value (in thousands of dollars) for
 ### Tree-Based Models and Feature Selection
 <b> Evaluation of Decision Trees, Random Forests, Gradient Boosting</b> 
 
-[Github]("Github") | [Nbviewer]("Nbviewer")
+[Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment_4_-_Random_Forests_and_Gradient_Boosting/Assignment_4_-_Random_Forests_and_Gradient_Boosting.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment_4_-_Random_Forests_and_Gradient_Boosting/Assignment_4_-_Random_Forests_and_Gradient_Boosting.ipynb "Nbviewer")
 
 I used twelve features to predict the median value (in thousands of dollars) for housing in the Boston metropolitan area during the 1970's from a dataset of 500+ observations. I employed three tree-based models (Decision Trees, Random Forests, Gradient Boosting (learning rate =0.1)), as well as using RMSE as an index of model performance. Then, I used a Gradient Boosting model to determine the feature importance of all of the features when predicting the target variable (median value).
 
