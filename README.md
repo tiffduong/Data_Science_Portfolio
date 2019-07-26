@@ -42,3 +42,8 @@ I used twelve features to predict the median value (in thousands of dollars) for
 
 I used twelve features to predict the median value (in thousands of dollars) for housing in the Boston metropolitan area during the 1970's from a dataset of 500+ observations. I employed three tree-based models (Decision Trees, Random Forests, Gradient Boosting (learning rate =0.1)), as well as using RMSE as an index of model performance. Then, I used a Gradient Boosting model to determine the feature importance of all of the features when predicting the target variable (median value).
 
+## Multi-Class Classifiers
+### Principal Component Analysis + Random Forest Classifier
+[Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment_5_-_Principal_Components_Analysis/Assignment_5_-_Principal_Components_Analysis.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment_5_-_Principal_Components_Analysis/Assignment_5_-_Principal_Components_Analysis.ipynb "Nbviewer")
+
+I used the MNIST dataset and employed two models: a random forest classifier model as a benchmark for model performance and another random forest classifier model that had principal component analysis (PCA) applied to it as a dimensional-reduction method, while preserving 95% variance explained by the feature. Within the second model, I initially applied the fit_transform method to the entire data set (purposeful issue), and then I applied a fit_transform method to the training set and only the transform method to the test set separately and compared performance between the wrongly transformed and rightfully transformed data.
