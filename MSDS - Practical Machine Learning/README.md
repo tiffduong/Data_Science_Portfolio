@@ -41,3 +41,10 @@ From a management perspective, the predictive accuracy of models must be weighed
 > Apply Principal Components Analysis to the full set of data to reduce the dimensionality of the dataset, while still retaining 95% of the variability explained by the explanatory variables.<br>
 > Employ a random forest classification model using the PCA transformed data set and compare F1 score and runtime.<br>
 > Identify the experiemental issue and rerun the experiment in a way that is consistent with a training-and-test regime.<br>
+
+## Assignment 6: Neural Networks
+### Management Questions
+Suppose you are a financial institution evaluating machine learning technologies for optical character recognition. Initial testing is on the MNIST digits. What can you conclude from your benchmark study?<br>
+> Explore tested neural network structures within a benchmark experiment, a factorial design with at least two levels on each of two experimental factors.<br>
+> Utilize TensorFlow and ANNs.<br>
+> Compare performance based on model accuracy and model runtime.<br>
