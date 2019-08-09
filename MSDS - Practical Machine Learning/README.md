@@ -48,3 +48,10 @@ Suppose you are a financial institution evaluating machine learning technologies
 > Explore tested neural network structures within a benchmark experiment, a factorial design with at least two levels on each of two experimental factors.<br>
 > Utilize TensorFlow and ANNs.<br>
 > Compare performance based on model accuracy and model runtime.<br>
+
+## Assignment 7: Convolutional Neural Networks
+### Management Questions
+Assume that we are providing advice to a website provider who is looking for tools to automatically label images provided by end users. As we look across the factors in the study, making recommendations to management about image classification, we are most concerned about achieving the highest possible accuracy in image classification. That is, we should be willing to sacrifice training time for model accuracy. What type of machine learning model works best? If it is a convolutional neural network, what type of network should we use? Part of this recommendation may concern information about the initial images themselves (input data for the classification task). What types of images work best?<br>
+> Explore tested neural network structures within a benchmark experiment, a factorial design with at least two levels on each of two experimental factors.<br>
+> Utilize TensorFlow and CNNs.<br>
+> Compare performance based on model accuracy and model runtime.<br>
