@@ -1,5 +1,5 @@
 # Tiffany Duong's Data Science Portfolio
-This portfolio is a compliation of notebooks that I have created over the course of my studies for my Masters in Data Science at Northwestern University as well as personal/side projects<br>
+This portfolio is a compilation of notebooks that I have created over the course of my studies for my Masters in Data Science at Northwestern University as well as personal/side projects<br>
 
 ## Data Cleansing and Preparation
 ### BestDeal Transactional Data
