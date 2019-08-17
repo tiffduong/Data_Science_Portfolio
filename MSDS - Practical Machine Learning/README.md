@@ -55,3 +55,10 @@ Assume that we are providing advice to a website provider who is looking for too
 > Explore tested neural network structures within a benchmark experiment, a factorial design with at least two levels on each of two experimental factors.<br>
 > Utilize TensorFlow and CNNs.<br>
 > Compare performance based on model accuracy and model runtime.<br>
+
+## Assignment 8: Language Modeling with RNNs
+### Management Questions
+Suppose management is thinking about using a language model to classify written customer reviews and call and complaint logs. If the most critical customer messages can be identified, then customer support personnel can be assigned to contact those customers. How would you advise senior management? <br>
+> Use pretrained word vectors from GloVe embeddings.<br>
+> Utilize TensorFlow and RNNs.<br>
+> Compare performance based on model accuracy.<br>
