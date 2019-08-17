@@ -1,8 +1,7 @@
 # Practical Machine Learning (MSDS 422)
->The course introduces machine learning with business applications. It provides a survey of machine learning techniques, including traditional statistical methods, resampling techniques, model selection and regularization, tree-based methods, principal components analysis, cluster analysis, artificial neural networks, and deep learning. Students implement machine learning models with open-source software for data science. They explore data and learn from data, finding underlying patterns useful for data reduction, feature analysis, prediction, and classification.
-
 This repository contains all of my projects/coursework for Practical Machine Learning (MSDS 422) of Northwestern University's Masters in Data Science program. 
 Each assignment contains a brief assignment overview write-up containing key insights.
+>The course introduces machine learning with business applications. It provides a survey of machine learning techniques, including traditional statistical methods, resampling techniques, model selection and regularization, tree-based methods, principal components analysis, cluster analysis, artificial neural networks, and deep learning. Students implement machine learning models with open-source software for data science. They explore data and learn from data, finding underlying patterns useful for data reduction, feature analysis, prediction, and classification.
 <br>
 
 ## Assignment 1: MSPA Software Survey Analysis
