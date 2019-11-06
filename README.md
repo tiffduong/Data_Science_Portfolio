@@ -49,6 +49,11 @@ I used twelve features to predict the median value (in thousands of dollars) for
 I used the MNIST dataset and employed two models: a random forest classifier model as a benchmark for model performance and another random forest classifier model that had principal component analysis (PCA) applied to it as a dimensional-reduction method, while preserving 95% variance explained by the feature. Within the second model, I initially applied the fit_transform method to the entire data set (purposeful issue), and then I applied a fit_transform method to the training set and only the transform method to the test set separately and compared performance (using the F1 score, which is the harmonic mean between accuracy and precision, and program runtime) between the wrongly transformed and rightfully transformed data, as well as to the benchmark model.
 
 ## Deep Learning
+### Multilayer Perceptron (MLP) - Alphabet Classification / Hidden Node Activation
+[Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/Assignment_1_-_Classifier_Neural_Network/Simple_Neural_Net_Alphabet_Classification.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/Assignment_1_-_Classifier_Neural_Network/Simple_Neural_Net_Alphabet_Classification.ipynb "Nbviewer")
+
+I investigated how varying hyperparameters (number of hidden nodes and shift in learning rate) of a MLP can contribute to how hidden nodes activate/deactivate based on a 9x9 input grid of alphabet data (81 input nodes, 9 output nodes) and how the pre-determined input classes are then classified. The MLP utilizes backpropagation that was defined in NumPy.
+
 ### Multilayer Perceptron (MLP) - MNIST Digits Classification
 [Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment_6_-_Neural_Networks/Assignment%206%20-%20Neural%20Networks.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Practical%20Machine%20Learning/Assignment_6_-_Neural_Networks/Assignment%206%20-%20Neural%20Networks.ipynb "Nbviewer")
 
