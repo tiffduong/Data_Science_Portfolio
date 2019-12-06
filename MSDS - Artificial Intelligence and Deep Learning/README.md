@@ -3,3 +3,6 @@
 
 ## Assignment 2: Finding Natural Feature Sets
 >Prompt: Investigate how a deep neural network inteprets features and to experiment and identify the natural feature sets within the hidden layer.
+
+## Final Project: Distracted Drivers Detection
+>Prompt: For this project, you will have chosen a research question and developed an appropriate network. You will have gathered and preprocessed your data, designed and refined your network structure, trained and tested the network, varied the hyperparameters to improve performance, and analyzed / assessed the results. 
