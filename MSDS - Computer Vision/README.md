@@ -3,3 +3,30 @@
 
 ## Assignment 1: Classication Model with Fashion MNIST data
 >Prompt: Train a classification model for the Fashion MNIST Kaggle Project either on Kaggle or using a Colab notebook with Kaggle Data.
+
+## Assignment 2: OpenAI Gym
+>Prompt: 
+
+## Assignment 3: Cloud Computer Vision API
+>Prompt: 
+
+## Assignment 4: AutoML Vision
+>Prompt:
+
+## Assignment 5: Intel Motividius Stick 2
+>Prompt:
+
+## Assignment 6: AWS DeepLens
+>Prompt:
+
+## Assignment 7: AWS Sagemaker Part I
+>Prompt:
+
+## Assignment 8: AWS Sagemaker Part 2
+>Prompt:
+
+## Assignment 9: Transfer Learning
+>Prompt:
+
+## Assignment 10: Final Project
+>Prompt:
