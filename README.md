@@ -64,6 +64,11 @@ I used the MNIST dataset and conducted a 2x2 factorial experiment by adjusting t
 
 I used a subset of the [Kaggle's cats vs. dogs dataset](https://www.kaggle.com/c/dogs-vs-cats "Kaggle's cats vs. dogs dataset") and conducted a 2x2 factorial experiment (MLP vs CNN, grayscale vs. RGB images) to see which type of model design has a higher classification accuracy on a determining if the subject of a given 64x64 image is a cat or dog. This experiment was done within Tensorflow, which is an open-source ML library, developed by Google. I made use of the Adam Optimization algorithm to improve the model. Performance between the models was compared using the model's process execution time and accuracy.
 
+### Convolutional Neural Networks (CNNs) - Fashion MNIST Classification
+[Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Computer%20Vision/Assignment_1_Fashion_MNIST.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Computer%20Vision/Assignment_1_Fashion_MNIST.ipynb "Nbviewer")
+
+I used the Fashion MNIST dataset to train a classification model using a convolutional neural network. The model was compiled using Adam Optimization, categorical cross-entropy for loss, and trained with early stopping for 6 epochs with batch sizes of 64. This project was done using Keras, with Tensorflow on the back-end.
+
 ### Convolutional Neural Networks (CNNs) - Distracted Driver Detection (Transfer Learning)
 [Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/Final_Project_-_Distracted_Driver_Detection/Distracted_Drivers.ipynb "Github") | [Nbviewer](https://nbviewer.jupyter.org/github/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/Final_Project_-_Distracted_Driver_Detection/Distracted_Drivers.ipynb "Nbviewer")
 
