@@ -5,7 +5,7 @@
 >Prompt: Train a classification model for the Fashion MNIST Kaggle Project either on Kaggle or using a Colab notebook with Kaggle Data.
 
 ## Assignment 2: OpenAI Gym
->Prompt: 
+>Prompt: Train Ms. PacMan using OpenAI Gym
 
 ## Assignment 3: Cloud Computer Vision API
 >Prompt: 
