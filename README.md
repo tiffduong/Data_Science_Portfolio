@@ -85,9 +85,9 @@ I used pretrained word vectors from GloVe embeddings (obtained with Python packa
 I programmed within OpenAI Gym's Ms.PacMan environment to use reinforcement learning to train a Deep-Q Network to maximize the amount of points Ms.PacMan scores. The Deep-Q Network was trained for 500,000 training steps with a replay memory size of 5,000, learning rate of 0.01, discount rate of 0.99, with batch sizes of 50. After training, I tested to see how Ms. PacMan performed and it obtained a score of 690. This project was completed using Tensorflow, OpenAI Gym, and Colab.
 
 ## Computer Vision APIs
-### Google Vision API - Landmark Detection
+### Google Cloud Vision API - Landmark Detection
 [Github](https://github.com/tiffduong/Data_Science_Portfolio/blob/master/MSDS%20-%20Computer%20Vision/Assignment_3_Landmark_Detection_(Google_Vision_API).ipynb "Github") | [Colab](https://colab.research.google.com/drive/1sJEpPrB0E6pmBpdArBTmDsBpzC9nWxVG "Colab")
 
-I used the Google Vision API to identify world landmarks from a directory with five photos. Results display the landmark name, detection score, and the landmark latitiude and longitude.
+I used the Google Cloud Vision API to identify world landmarks from a directory with five photos. Results display the landmark name, detection score, and the landmark latitiude and longitude.
 
 
