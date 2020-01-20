@@ -8,7 +8,7 @@
 >Prompt: Train Ms. PacMan using OpenAI Gym
 
 ## Assignment 3: Cloud Computer Vision API
->Prompt: 
+>Prompt: Create and share a Colab notebook that uses a cloud computer vision API
 
 ## Assignment 4: AutoML Vision
 >Prompt:
